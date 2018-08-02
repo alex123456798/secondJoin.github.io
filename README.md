@@ -1,2 +1,2 @@
-# secondJoin.github.io
+# secondjoin.github.io
 Пробная загрузка файлов
